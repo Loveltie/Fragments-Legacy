@@ -3,6 +3,7 @@
   "name": "Fragments",
   "version": "0.1.0",
   "description": "Highlight a word to save it as a vocabulary fragment.",
+  "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEApb2S+2WBx4YXpFDde4QmjwqXQPn1EH45tm7SG4ownd94Ll/jvai5I6OsWK1khftbG1LgXHvcFfjfryUsevOSKL4aO6/XuP3LSDpThpaJaD7m25JyT3Pnu3QHgbI0Hb62YXFt9vBKrjaMGaGprBY145Z811sp6MksBN0NyE6gg8Pm35EtADekl2S0z0Wc18vWqj+zwKCv7eYk9DqmMf08dO+WFkOPXo4NMBFgHufFRnulBSue4ghdgLCPMYiha2MBDl8TrMAkNS4E9miReT+wxD8GGnflJ7TUeU+DIz14lHnNBmPpbff8k6SAj2NJWHQbFrXzNqCbROnogVIiT8IG4wIDAQAB",
   "permissions": ["storage", "alarms", "notifications"],
   "action": {
     "default_popup": "popup/popup.html",

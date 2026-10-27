@@ -14,3 +14,7 @@ Thumbs.db
 # Editor / tooling
 .vscode/
 node_modules/
+
+# Personal data and secrets
+backups/
+*.pem
