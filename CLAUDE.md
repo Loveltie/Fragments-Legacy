@@ -1,4 +1,6 @@
-# Fragments
+# Fragments Legacy
+
+**Frozen.** This is the original browser extension (repo `Loveltie/Fragments-Legacy`). The new app lives in `Loveltie\Projects\Fragments` (repo `Loveltie/Fragments`). Only fixes needed to keep daily use working go here; it is retired once the new capture extension replaces it.
 
 Language learning app by Loveltie (Alvaro). Repo: github.com/Loveltie/Fragments, branch `main`.
 
